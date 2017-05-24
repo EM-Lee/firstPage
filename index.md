@@ -1,7 +1,5 @@
 # [EM Lee](https://em-lee.github.io/firstPage/)
 
-[![Build Status](https://travis-ci.org/pages-themes/slate.svg?branch=master)](https://travis-ci.org/pages-themes/slate) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-slate.svg)](https://badge.fury.io/rb/jekyll-theme-slate)
-
 ### Links
 
 If you'd like to change the theme's HTML layout:
